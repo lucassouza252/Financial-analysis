@@ -2,10 +2,11 @@
 """
 @author: lucas
 """
-
+# Bibliotecas para análises e graficos
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+# Biblioteca para coletar dados da web
 from pandas_datareader import data as wb
 
 # Obtem dados da web, do yahoo finance
